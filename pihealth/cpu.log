@@ -1,0 +1,222 @@
+UID        PID  PPID  C STIME TTY          TIME CMD
+root         1     0  0 3月15 ?       00:00:02 /sbin/init splash
+root         2     0  0 3月15 ?       00:00:00 [kthreadd]
+root         4     2  0 3月15 ?       00:00:00 [kworker/0:0H]
+root         6     2  0 3月15 ?       00:00:00 [mm_percpu_wq]
+root         7     2  0 3月15 ?       00:00:00 [ksoftirqd/0]
+root         8     2  0 3月15 ?       00:00:24 [rcu_sched]
+root         9     2  0 3月15 ?       00:00:00 [rcu_bh]
+root        10     2  0 3月15 ?       00:00:00 [migration/0]
+root        11     2  0 3月15 ?       00:00:00 [watchdog/0]
+root        12     2  0 3月15 ?       00:00:00 [cpuhp/0]
+root        13     2  0 3月15 ?       00:00:00 [cpuhp/1]
+root        14     2  0 3月15 ?       00:00:00 [watchdog/1]
+root        15     2  0 3月15 ?       00:00:00 [migration/1]
+root        16     2  0 3月15 ?       00:00:00 [ksoftirqd/1]
+root        18     2  0 3月15 ?       00:00:00 [kworker/1:0H]
+root        19     2  0 3月15 ?       00:00:00 [cpuhp/2]
+root        20     2  0 3月15 ?       00:00:00 [watchdog/2]
+root        21     2  0 3月15 ?       00:00:00 [migration/2]
+root        22     2  0 3月15 ?       00:00:00 [ksoftirqd/2]
+root        24     2  0 3月15 ?       00:00:00 [kworker/2:0H]
+root        25     2  0 3月15 ?       00:00:00 [cpuhp/3]
+root        26     2  0 3月15 ?       00:00:00 [watchdog/3]
+root        27     2  0 3月15 ?       00:00:00 [migration/3]
+root        28     2  0 3月15 ?       00:00:00 [ksoftirqd/3]
+root        30     2  0 3月15 ?       00:00:00 [kworker/3:0H]
+root        31     2  0 3月15 ?       00:00:00 [kdevtmpfs]
+root        32     2  0 3月15 ?       00:00:00 [netns]
+root        37     2  0 3月15 ?       00:00:00 [khungtaskd]
+root        38     2  0 3月15 ?       00:00:00 [oom_reaper]
+root        39     2  0 3月15 ?       00:00:00 [writeback]
+root        40     2  0 3月15 ?       00:00:00 [kcompactd0]
+root        41     2  0 3月15 ?       00:00:00 [ksmd]
+root        42     2  0 3月15 ?       00:00:00 [khugepaged]
+root        43     2  0 3月15 ?       00:00:00 [crypto]
+root        44     2  0 3月15 ?       00:00:00 [kintegrityd]
+root        45     2  0 3月15 ?       00:00:00 [kblockd]
+root        46     2  0 3月15 ?       00:00:00 [ata_sff]
+root        48     2  0 3月15 ?       00:00:00 [md]
+root        49     2  0 3月15 ?       00:00:00 [edac-poller]
+root        50     2  0 3月15 ?       00:00:00 [devfreq_wq]
+root        51     2  0 3月15 ?       00:00:00 [watchdogd]
+root        54     2  0 3月15 ?       00:00:00 [kauditd]
+root        55     2  0 3月15 ?       00:00:00 [kswapd0]
+root        56     2  0 3月15 ?       00:00:00 [ecryptfs-kthrea]
+root        97     2  0 3月15 ?       00:00:00 [kthrotld]
+root        98     2  0 3月15 ?       00:00:00 [acpi_thermal_pm]
+root       103     2  0 3月15 ?       00:00:00 [ipv6_addrconf]
+root       124     2  0 3月15 ?       00:00:00 [charger_manager]
+root       169     2  0 3月15 ?       00:00:00 [nvme-wq]
+root       170     2  0 3月15 ?       00:00:00 [scsi_eh_0]
+root       171     2  0 3月15 ?       00:00:00 [scsi_tmf_0]
+root       172     2  0 3月15 ?       00:00:00 [scsi_eh_1]
+root       173     2  0 3月15 ?       00:00:00 [scsi_tmf_1]
+root       180     2  0 3月15 ?       00:00:04 [i915/signal:0]
+root       181     2  0 3月15 ?       00:00:00 [i915/signal:1]
+root       182     2  0 3月15 ?       00:00:00 [i915/signal:2]
+root       183     2  0 3月15 ?       00:00:00 [i915/signal:4]
+root       209     2  0 3月15 ?       00:00:00 [kworker/2:1H]
+root       211     2  0 3月15 ?       00:00:01 [jbd2/nvme0n1p9-]
+root       212     2  0 3月15 ?       00:00:00 [ext4-rsv-conver]
+root       246     1  0 3月15 ?       00:00:03 /lib/systemd/systemd-journald
+root       266     1  0 3月15 ?       00:00:02 /lib/systemd/systemd-udevd
+root       277     2  0 3月15 ?       00:00:00 [kworker/3:1H]
+root       338     2  0 3月15 ?       00:00:00 [irq/103-ELAN209]
+root       350     2  0 3月15 ?       00:00:00 [kmemstick]
+root       352     2  0 3月15 ?       00:00:00 [cfg80211]
+root       356     2  0 3月15 ?       00:01:31 [irq/131-iwlwifi]
+systemd+   611     1  0 3月15 ?       00:00:00 /lib/systemd/systemd-timesyncd
+root       713     1  0 3月15 ?       00:00:04 /usr/lib/accountsservice/accounts-daemon
+avahi      714     1  0 3月15 ?       00:00:24 avahi-daemon: running [shizhengang.local]
+root       718     1  0 3月15 ?       00:00:00 /usr/lib/bluetooth/bluetoothd
+syslog     720     1  0 3月15 ?       00:00:01 /usr/sbin/rsyslogd -n
+root       724     1  0 3月15 ?       00:00:02 /usr/sbin/acpid
+avahi      728   714  0 3月15 ?       00:00:00 avahi-daemon: chroot helper
+message+   746     1  0 3月15 ?       00:00:18 /usr/bin/dbus-daemon --system --address=systemd: --nofork --nopidfile --systemd-activation
+root       763     2  0 3月15 ?       00:00:00 [kworker/0:1H]
+root       764     2  0 3月15 ?       00:00:00 [kworker/1:1H]
+root       784     1  0 3月15 ?       00:00:17 /usr/sbin/NetworkManager --no-daemon
+root       786     1  0 3月15 ?       00:00:00 /usr/sbin/ModemManager
+root       787     1  0 3月15 ?       00:00:00 /usr/lib/snapd/snapd
+root       788     1  0 3月15 ?       00:00:00 /usr/sbin/cron -f
+root       789     1  0 3月15 ?       00:00:00 /lib/systemd/systemd-logind
+root       829     1  0 3月15 ?       00:00:01 /usr/sbin/irqbalance --pid=/var/run/irqbalance.pid
+root       860     1  0 3月15 ?       00:00:07 /usr/lib/policykit-1/polkitd --no-debug
+root       888     1  0 3月15 ?       00:00:00 /usr/sbin/lightdm
+root       910     1  0 3月15 ?       00:00:00 /usr/sbin/sshd -D
+root       911   888  4 3月15 tty7    01:04:53 /usr/lib/xorg/Xorg -core :0 -seat seat0 -auth /var/run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+root       925     1  0 3月15 ?       00:00:02 /sbin/wpa_supplicant -u -s -O /run/wpa_supplicant
+root       991   888  0 3月15 ?       00:00:00 lightdm --session-child 12 19
+rtkit     1048     1  0 3月15 ?       00:00:00 /usr/lib/rtkit/rtkit-daemon
+root      1069     1  1 3月15 ?       00:27:06 /usr/lib/upower/upowerd
+colord    1102     1  0 3月15 ?       00:00:00 /usr/lib/colord/colord
+root      1105     2  0 3月15 ?       00:00:00 [krfcommd]
+shizhen+  1135     1  0 3月15 ?       00:00:00 /lib/systemd/systemd --user
+shizhen+  1136  1135  0 3月15 ?       00:00:00 (sd-pam)
+shizhen+  1142     1  0 3月15 ?       00:00:00 /usr/bin/gnome-keyring-daemon --daemonize --login
+shizhen+  1144   991  0 3月15 ?       00:00:09 /sbin/upstart --user
+nobody    1198   784  0 3月15 ?       00:00:01 /usr/sbin/dnsmasq --no-resolv --keep-in-foreground --no-hosts --bind-interfaces --pid-file=/var/run/NetworkManager/dnsmasq.pid --listen-address=127.0.1.1 --cache-size=0 --conf-file=/dev/null --proxy-dnssec --enable-dbus=org.freedesktop.NetworkManager.dnsmasq --conf-dir=/etc/NetworkManager/dnsmasq.d
+shizhen+  1279  1144  0 3月15 ?       00:00:01 upstart-udev-bridge --daemon --user
+shizhen+  1301  1144  0 3月15 ?       00:00:20 dbus-daemon --fork --session --address=unix:abstract=/tmp/dbus-FNBOzGvFRx
+shizhen+  1327  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/hud/window-stack-bridge
+shizhen+  1351  1144  0 3月15 ?       00:00:20 /usr/bin/fcitx
+shizhen+  1389  1144  0 3月15 ?       00:00:09 /usr/bin/dbus-daemon --fork --print-pid 5 --print-address 7 --config-file /usr/share/fcitx/dbus/daemon.conf
+shizhen+  1394  1144  0 3月15 ?       00:00:05 /usr/lib/x86_64-linux-gnu/bamf/bamfdaemon
+shizhen+  1400  1144  0 3月15 ?       00:00:00 /usr/bin/fcitx-dbus-watcher unix:abstract=/tmp/dbus-hLyfbJ7FAK,guid=2c78b33393150e00ab2eda6a5aaa1be0 1389
+shizhen+  1409  1144  0 3月15 ?       00:00:02 upstart-dbus-bridge --daemon --system --user --bus-name system
+shizhen+  1411  1144  0 3月15 ?       00:00:04 upstart-dbus-bridge --daemon --session --user --bus-name session
+shizhen+  1413  1144  0 3月15 ?       00:00:00 upstart-file-bridge --daemon --user
+shizhen+  1423  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd
+shizhen+  1429  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-fuse /run/user/1000/gvfs -f -o big_writes
+shizhen+  1482  1144  0 3月15 ?       00:00:05 /usr/lib/x86_64-linux-gnu/notify-osd
+shizhen+  1514  1144  0 3月15 ?       00:00:00 gpg-agent --homedir /home/shizhengang/.gnupg --use-standard-socket --daemon
+shizhen+  1518  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/gconf/gconfd-2
+shizhen+  1524  1144  0 3月15 ?       00:01:03 sogou-qimpanel-watchdog
+shizhen+  1526  1144  0 3月15 ?       00:00:00 /usr/lib/at-spi2-core/at-spi-bus-launcher
+shizhen+  1531  1526  0 3月15 ?       00:00:00 /usr/bin/dbus-daemon --config-file=/etc/at-spi2/accessibility.conf --nofork --print-address 3
+shizhen+  1533  1144  0 3月15 ?       00:00:02 /usr/lib/at-spi2-core/at-spi2-registryd --use-gnome-session
+shizhen+  1545  1144  0 3月15 ?       00:00:03 /usr/lib/x86_64-linux-gnu/hud/hud-service
+shizhen+  1547  1144  0 3月15 ?       00:00:16 /usr/lib/unity-settings-daemon/unity-settings-daemon
+shizhen+  1558  1144  0 3月15 ?       00:00:00 /usr/lib/gnome-session/gnome-session-binary --session=ubuntu
+shizhen+  1568  1144  0 3月15 ?       00:00:27 /usr/lib/x86_64-linux-gnu/unity/unity-panel-service
+shizhen+  1594  1144  0 3月15 ?       00:00:00 /usr/lib/dconf/dconf-service
+shizhen+  1617  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-messages/indicator-messages-service
+shizhen+  1618  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-bluetooth/indicator-bluetooth-service
+shizhen+  1619  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-power/indicator-power-service
+shizhen+  1622  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-datetime/indicator-datetime-service
+shizhen+  1623  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-keyboard/indicator-keyboard-service --use-gtk
+shizhen+  1627  1144  0 3月15 ?       00:00:01 /usr/lib/x86_64-linux-gnu/indicator-sound/indicator-sound-service
+shizhen+  1628  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-printers/indicator-printers-service
+shizhen+  1629  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/indicator-session/indicator-session-service
+shizhen+  1631  1144  1 3月15 ?       00:27:06 compiz
+shizhen+  1655  1144  0 3月15 ?       00:00:06 /usr/lib/x86_64-linux-gnu/indicator-application/indicator-application-service
+shizhen+  1687  1144  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-source-registry
+shizhen+  1690  1144  1 3月15 ?       00:18:04 /usr/bin/pulseaudio --start --log-target=syslog
+shizhen+  1727  1351  0 3月15 ?       00:00:00 [sh] <defunct>
+shizhen+  1733  1144  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory
+shizhen+  1748  1733  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1733x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1733/2
+shizhen+  1750  1547  0 3月15 ?       00:00:01 syndaemon -i 1.0 -t -K -R
+shizhen+  1755  1558  0 3月15 ?       00:00:51 nm-applet
+shizhen+  1756  1558  0 3月15 ?       00:00:04 /usr/bin/gnome-software --gapplication-service
+shizhen+  1757  1558  0 3月15 ?       00:00:09 nautilus -n
+shizhen+  1761  1558  0 3月15 ?       00:00:00 /usr/lib/policykit-1-gnome/polkit-gnome-authentication-agent-1
+shizhen+  1762  1558  0 3月15 ?       00:00:00 /usr/lib/unity-settings-daemon/unity-fallback-mount-helper
+shizhen+  1776  1733  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-calendar-factory-subprocess --factory contacts --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.Calendarx1733x3 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/Calendar/1733/3
+shizhen+  1778  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfs-udisks2-volume-monitor
+root      1785     1  0 3月15 ?       00:00:00 /usr/lib/udisks2/udisksd --no-debug
+shizhen+  1799  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfs-goa-volume-monitor
+shizhen+  1808  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfs-gphoto2-volume-monitor
+root      1814     1  0 3月15 ?       00:00:01 /usr/lib/x86_64-linux-gnu/fwupd/fwupd
+shizhen+  1821  1144  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-addressbook-factory
+shizhen+  1835  1821  0 3月15 ?       00:00:00 /usr/lib/evolution/evolution-addressbook-factory-subprocess --factory local --bus-name org.gnome.evolution.dataserver.Subprocess.Backend.AddressBookx1821x2 --own-path /org/gnome/evolution/dataserver/Subprocess/Backend/AddressBook/1821/2
+shizhen+  1846  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfs-afc-volume-monitor
+shizhen+  1852  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfs-mtp-volume-monitor
+shizhen+  1877  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-trash --spawner :1.6 /org/gtk/gvfs/exec_spaw/1
+shizhen+  1901  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-metadata
+shizhen+  1924  1144  0 3月15 ?       00:00:33 sogou-qimpanel
+whoopsie  2052     1  0 3月15 ?       00:00:00 /usr/bin/whoopsie -f
+root      2059     1  0 3月15 tty1    00:00:00 /sbin/agetty --noclear tty1 linux
+shizhen+  2425  1558  0 3月15 ?       00:00:00 zeitgeist-datahub
+shizhen+  2441  1144  0 3月15 ?       00:00:00 /usr/bin/zeitgeist-daemon
+shizhen+  2456  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/zeitgeist-fts
+shizhen+  2819  1558  0 3月15 ?       00:00:00 update-notifier
+shizhen+  3939  1558  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/deja-dup/deja-dup-monitor
+shizhen+  3965  1144  0 3月15 ?       00:00:02 /home/shizhengang/.lantern/bin/lantern
+shizhen+  3979  3965  0 3月15 ?       00:02:55 /home/shizhengang/.lantern/bin/lantern
+shizhen+  4002  3979  0 3月15 ?       00:00:00 /home/shizhengang/.byteexec/sysproxy-cmd wait-and-cleanup 127.0.0.1 35063
+shizhen+  4012  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-http --spawner :1.6 /org/gtk/gvfs/exec_spaw/3
+shizhen+  4017  1144  1 3月15 ?       00:21:14 /opt/google/chrome/chrome http://localhost:41807?token=867442ef49f664a556c23bb6f081faa2&utm_campaign=startup&utm_content=&utm_medium=lantern&utm_source=linux
+shizhen+  4024  4017  0 3月15 ?       00:00:00 cat
+shizhen+  4025  4017  0 3月15 ?       00:00:00 cat
+shizhen+  4028  4017  0 3月15 ?       00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb,
+shizhen+  4029  4028  0 3月15 ?       00:00:00 /opt/google/chrome/nacl_helper
+shizhen+  4032  4028  0 3月15 ?       00:00:00 /opt/google/chrome/chrome --type=zygote --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb,
+shizhen+  4084  4017  1 3月15 ?       00:21:39 /opt/google/chrome/chrome --type=gpu-process --field-trial-handle=16930006754607371262,10269692741495072718,131072 --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --gpu-preferences=GAAAAAAAAAAAAQAAAQAAAAAAAAAAAGAA --gpu-vendor-id=0x8086 --gpu-device-id=0x5916 --gpu-driver-vendor=Mesa --gpu-driver-version=17.2.8 --gpu-driver-date --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --service-request-channel-token=7CDCCF2BF5C74B4FE861457E427BE21A
+shizhen+  4089  4084  0 3月15 ?       00:00:00 /opt/google/chrome/chrome --type=-broker
+shizhen+  4100  4032  0 3月15 ?       00:00:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=16930006754607371262,10269692741495072718,131072 --service-pipe-token=F9FDAD451068483CF695BD6C43F96609 --lang=zh-CN --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=F9FDAD451068483CF695BD6C43F96609 --renderer-client-id=4 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+shizhen+  4230  4032  0 3月15 ?       00:00:49 /opt/google/chrome/chrome --type=renderer --field-trial-handle=16930006754607371262,10269692741495072718,131072 --service-pipe-token=6A431EAED1041A19C2A6927CC7ACEBEF --lang=zh-CN --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=6A431EAED1041A19C2A6927CC7ACEBEF --renderer-client-id=9 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+shizhen+  4303  4032  0 3月15 ?       00:00:16 /opt/google/chrome/chrome --type=renderer --field-trial-handle=16930006754607371262,10269692741495072718,131072 --service-pipe-token=F258CBBE0AED136197BFB48E48554FA2 --lang=zh-CN --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=F258CBBE0AED136197BFB48E48554FA2 --renderer-client-id=8 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+shizhen+  4870  1144  0 3月15 ?       00:01:30 /usr/lib/gnome-terminal/gnome-terminal-server
+shizhen+  4875  4870  0 3月15 pts/0   00:00:00 bash
+shizhen+  6249  1144  0 11:30 ?        00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-music/unity-music-daemon
+shizhen+  6255  1144 11 11:30 ?        00:20:13 netease-cloud-music
+shizhen+  6258  6255  0 11:30 ?        00:00:00 /usr/bin/netease-cloud-music --type=zygote --no-sandbox --lang=en-US --log-file=/home/shizhengang/.cache/netease-cloud-music/Cef/console.log --log-severity=error
+shizhen+  6285  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-network --spawner :1.6 /org/gtk/gvfs/exec_spaw/5
+shizhen+  6292  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-smb-browse --spawner :1.6 /org/gtk/gvfs/exec_spaw/6
+shizhen+  6304  6258  4 11:30 ?        00:08:06 /usr/bin/netease-cloud-music --type=zygote --no-sandbox --lang=en-US --log-file=/home/shizhengang/.cache/netease-cloud-music/Cef/console.log --log-severity=error
+shizhen+  6351  1144  0 3月15 ?       00:00:00 /usr/lib/gvfs/gvfsd-dnssd --spawner :1.6 /org/gtk/gvfs/exec_spaw/9
+root      7869     2  0 12:17 ?        00:00:00 [irq/125-mei_me]
+root      7873     2  0 12:17 ?        00:00:00 [kworker/u9:2]
+shizhen+  9698  4870  0 13:21 pts/19   00:00:00 bash
+shizhen+  9779  4870  0 13:22 pts/20   00:00:00 bash
+root     10424     2  0 13:33 ?        00:00:00 [kworker/1:1]
+root     13208     2  0 13:50 ?        00:00:00 [kworker/u8:1]
+root     13340     2  0 13:55 ?        00:00:00 [kworker/3:1]
+root     13363     2  0 13:56 ?        00:00:00 [kworker/2:2]
+root     13395     2  0 13:57 ?        00:00:00 [kworker/u8:0]
+shizhen+ 13416  1144  0 13:58 ?        00:00:01 gedit /home/shizhengang/下载/client.c
+root     13550   784  0 14:03 ?        00:00:00 /sbin/dhclient -d -q -sf /usr/lib/NetworkManager/nm-dhcp-helper -pf /var/run/dhclient-wlp1s0.pid -lf /var/lib/NetworkManager/dhclient-d56410b9-8823-4ec8-8f52-d9073c92edc2-wlp1s0.lease -cf /var/lib/NetworkManager/dhclient-wlp1s0.conf wlp1s0
+root     13628     2  0 14:03 ?        00:00:00 [kworker/0:3]
+shizhen+ 14011  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/unity-scope-home/unity-scope-home
+shizhen+ 14022  1144  0 3月15 ?       00:00:00 /usr/bin/unity-scope-loader applications/applications.scope applications/scopes.scope commands.scope
+shizhen+ 14024  1144  0 3月15 ?       00:00:00 /usr/lib/x86_64-linux-gnu/unity-lens-files/unity-files-daemon
+root     14150     2  0 14:16 ?        00:00:00 [kworker/0:1]
+root     14181     2  0 14:17 ?        00:00:00 [kworker/u8:2]
+root     14200     2  0 14:19 ?        00:00:00 [kworker/2:0]
+root     14215     2  0 14:19 ?        00:00:00 [kworker/1:2]
+root     14277     2  0 14:21 ?        00:00:00 [kworker/3:2]
+root     14344     2  0 14:24 ?        00:00:00 [kworker/2:1]
+root     14363     2  0 14:25 ?        00:00:00 [kworker/0:0]
+root     14365     2  0 14:25 ?        00:00:00 [kworker/1:0]
+root     14405     2  0 14:27 ?        00:00:00 [kworker/3:0]
+root     14437     2  0 14:28 ?        00:00:00 [kworker/u8:3]
+shizhen+ 14458  9779  0 14:28 pts/20   00:00:00 ./client
+shizhen+ 14469  1144  0 14:29 pts/0    00:00:00 ./master
+shizhen+ 14470 14458  0 14:29 pts/20   00:00:00 ps -ef
+shizhen+ 15385  4032  0 3月15 ?       00:00:00 /opt/google/chrome/chrome --type=utility --field-trial-handle=16930006754607371262,10269692741495072718,131072 --lang=zh-CN --service-sandbox-type=utility --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --service-request-channel-token=CCE99E6E95769777CE6736EA0681E001 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102
+root     22903     2  0 06:48 ?        00:00:00 [kworker/u9:1]
+root     24518     1  0 06:53 ?        00:00:00 /usr/sbin/cupsd -l
+root     24519     1  0 06:53 ?        00:00:00 /usr/sbin/cups-browsed
+lp       24521 24518  0 06:53 ?        00:00:00 /usr/lib/cups/notifier/dbus dbus://
+shizhen+ 27537  4032  9 08:36 ?        00:32:21 /opt/google/chrome/chrome --type=renderer --field-trial-handle=16930006754607371262,10269692741495072718,131072 --service-pipe-token=F22F7CC4B00996A17CDACE133099CDEF --lang=zh-CN --enable-crash-reporter=c0dd3ded-1817-47eb-8df5-cf65997eb5fb, --enable-offline-auto-reload --enable-offline-auto-reload-visible-only --enable-pinch --num-raster-threads=2 --enable-main-frame-before-activation --enable-compositor-image-animations --enable-gpu-async-worker-context --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;0,16,3553;0,17,3553;0,18,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;1,16,3553;1,17,3553;1,18,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;2,16,3553;2,17,3553;2,18,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553;3,16,3553;3,17,3553;3,18,3553;4,0,3553;4,1,3553;4,2,3553;4,3,3553;4,4,3553;4,5,3553;4,6,3553;4,7,3553;4,8,3553;4,9,3553;4,10,3553;4,11,3553;4,12,3553;4,13,3553;4,14,3553;4,15,3553;4,16,3553;4,17,3553;4,18,3553;5,0,3553;5,1,3553;5,2,3553;5,3,3553;5,4,3553;5,5,3553;5,6,3553;5,7,3553;5,8,3553;5,9,3553;5,10,3553;5,11,3553;5,12,3553;5,13,3553;5,14,3553;5,15,3553;5,16,3553;5,17,3553;5,18,3553;6,0,3553;6,1,3553;6,2,3553;6,3,3553;6,4,3553;6,5,3553;6,6,3553;6,7,3553;6,8,3553;6,9,3553;6,10,3553;6,11,3553;6,12,3553;6,13,3553;6,14,3553;6,15,3553;6,16,3553;6,17,3553;6,18,3553 --disable-accelerated-video-decode --service-request-channel-token=F22F7CC4B00996A17CDACE133099CDEF --renderer-client-id=33 --shared-files=v8_context_snapshot_data:100,v8_natives_data:101,v8_snapshot_data:102

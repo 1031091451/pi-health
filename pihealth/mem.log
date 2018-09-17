@@ -1,0 +1,23 @@
+总用量 164
+drwxrwxr-x 3 shizhengang shizhengang  4096 3月  16 14:29 .
+drwxrwxr-x 5 shizhengang shizhengang  4096 3月  10 20:38 ..
+-rwxrwxr-x 1 shizhengang shizhengang 13632 3月  14 16:28 a.out
+-rwxrwxr-x 1 shizhengang shizhengang 13944 3月  16 14:28 client
+-rwxrwxr-x 1 shizhengang shizhengang 13944 3月  14 18:18 client2
+-rw-rw-r-- 1 shizhengang shizhengang  2283 3月  16 14:08 client2.c
+-rw-rw-r-- 1 shizhengang shizhengang  2178 3月  14 13:42 client.c
+-rw-rw-r-- 1 shizhengang shizhengang  2866 3月  16 13:30 client.h
+-rw-rw-r-- 1 shizhengang shizhengang 24576 3月  16 14:29 cpu.log
+-rw-rw-r-- 1 shizhengang shizhengang  1001 3月  13 20:24 CPU.sh
+-rw-rw-r-- 1 shizhengang shizhengang   465 3月  11 08:21 DEBUG.h
+-rw-rw-r-- 1 shizhengang shizhengang    12 3月  16 14:21 disk.log
+-rw-rw-r-- 1 shizhengang shizhengang   881 3月  12 10:22 head.h
+drwxrwxr-x 2 shizhengang shizhengang  4096 3月  13 21:10 log
+-rwxrwxr-x 1 shizhengang shizhengang 14000 3月  16 14:29 master
+-rwxrwxr-x 1 shizhengang shizhengang 13632 3月  14 18:24 master2
+-rw-rw-r-- 1 shizhengang shizhengang  3741 3月  16 14:28 master2.c
+-rw-rw-r-- 1 shizhengang shizhengang  2418 3月  14 13:40 master.c
+-rw-rw-r-- 1 shizhengang shizhengang  1608 3月  16 14:21 master.h
+-rw-rw-r-- 1 shizhengang shizhengang     0 3月  16 14:29 mem.log
+-rw-rw-r-- 1 shizhengang shizhengang   688 3月  13 21:11 MEM.sh
+-rw-rw-r-- 1 shizhengang shizhengang    65 3月  13 20:56 piHealth.conf
